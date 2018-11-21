@@ -70,7 +70,7 @@ int main()
 }
 ```
 3.Berikut Hasilnya
-![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/1.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/A.png)
 ![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/2.png)
-![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/3.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/B.png)
 ![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/4.png)
