@@ -3,10 +3,10 @@
 Latihan1#Aplikasi Kalkulator sederhana
 ```
 1.Alur algoritmanya
-	-Mendeklarasikan string penjumlahan untuk operator aritmatika
-	-Mendeklarasikan string penngurangan untuk operator aritmatika	
-	-Mendeklarasikan string pembagian untuk operator aritmatika
-	-Mendeklarasikan string perkalian untuk operator aritmatika
+	-Mendeklarasikan string penjumlahan untuk operator aritmatika (+)
+	-Mendeklarasikan string penngurangan untuk operator aritmatika (-)	
+	-Mendeklarasikan string pembagian untuk operator aritmatika (/)
+	-Mendeklarasikan string perkalian untuk operator aritmatika (*)
 	-Mendeklarasikan variabel x,y sebagai nilai input
 	-Mendeklarasikan variabel hasil untuk hasil aritmatika
 	-Mendeklarasikan variabel z untuk nilai input operator aritmatika
@@ -69,7 +69,10 @@ int main()
                 }
 }
 ```
-3.Berikut Hasilnya
+3.Flowchartnya
+![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/C.png)
+
+4.Berikut Hasilnya
 ![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/A.png)
 ![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/2.png)
 ![img](https://raw.githubusercontent.com/aseps12/praktikum6/master/B.png)
